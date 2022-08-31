@@ -1,7 +1,7 @@
 import java.lang.Math;
 public class Array {
     // 8 kyu
-    //Sum of positive
+    // Sum of positive
     public static int[] digitize(long n) {
         String string = String.valueOf(n);
         int length = string.length();

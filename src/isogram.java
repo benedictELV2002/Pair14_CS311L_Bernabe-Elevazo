@@ -1,7 +1,7 @@
 import java.util.*;
 public class isogram {
-    //7 kyu
-    //Isograms
+    // 7 kyu
+    // Isograms
     public static boolean  isIsogram(String str) {
         boolean isogram = true;
         HashSet set = new HashSet();
